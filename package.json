@@ -1,6 +1,6 @@
 {
 	"name": "geomap",
-	"homepage": "https://eldolbilova.github.io/GeoMap",
+	"homepage": ".",
 	"private": true,
 	"version": "0.0.0",
 	"type": "module",
